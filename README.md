@@ -1,7 +1,7 @@
-style="color:#FFD700;">Hi.....! 👋</h1>
+<h1 style="color:#FFD700;">Hi.....! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=700&color=FFD700&center=true&vCenter=true&width=750&lines=I+am+Bidyut;FullStack+Developer;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=700&color=FFD700&center=true&vCenter=true&width=750&lines=I+am+Sudipta;FullStack+Developer;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 # 💫 About Me:
